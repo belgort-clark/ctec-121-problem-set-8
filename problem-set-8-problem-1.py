@@ -22,8 +22,10 @@ OUTPUTS:
 
 """
 
+
 def main():
-    pass # remove this line
+    pass  # remove this line
     # your code goes here
+
 
 main()

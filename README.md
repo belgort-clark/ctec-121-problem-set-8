@@ -28,3 +28,12 @@ If you have any questions, please ask them in the #questions channel on Slack. I
 - Once you have completed each program, be sure to test it by running it.
 - Make sure that you are getting the expected results.
 - Stage, commit and push your work back to GitHub.
+
+## Grading Rubric
+
+| Item          | Full Marks | Partial Marks | No Marks |
+| :------------ | :--------- | :------------ | :------- |
+| Problem No. 1 | 25         | 13            | 0        |
+| Problem No. 2 | 25         | 13            | 0        |
+| Problem No. 3 | 25         | 13            | 0        |
+| Problem No. 4 | 25         | 13            | 0        |
