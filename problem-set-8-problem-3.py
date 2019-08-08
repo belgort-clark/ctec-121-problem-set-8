@@ -5,7 +5,7 @@ READ ALL INFORMATION CAREFULLY AND THEN READ IT AGAIN
 
 IMPORTANT - PROVIDE AN IPO (Inputs, Processes, and Output) AT THE TOP OF EACH PROGRAM USING COMMENTS.
 
-- At the top of each program, including a section of comments that identifies all of the inputs, processes, and outputs for the program.
+- At the top of each program, include a section of comments that identifies all of the inputs, processes, and outputs for the program.
 - Include comments within your code explaining what the code is doing. You don't need to comment every line.
 - You must use coding techniques covered in Chapters 1, 2, 3, 5 and 7 in your solutions. Code from the internet will not be accepted.
 
@@ -15,8 +15,8 @@ Write a program that asks the user to enter a series of single-digit numbers wit
 
 HINTS
 ========================
-- Iterate through each character in the string using a loop. See video in Week 3 of Canvas.
-- Use a loop and use range(len(theString)) for your loop
+- Iterate through each character in the string using a loop. See video in Module 5 of Canvas.
+- Use a loop and use range(len(theString)) for your loop or interate through the string one character at a time
 - Remember that as you iterate through the loop, the iterator value can be used to slice into the string
 - Convert the string to a numeric value using int()
 - Use the accumulator pattern to sum the numbers. See video in Week 2 of Canvas.
@@ -29,8 +29,10 @@ OUTPUTS:
 
 """
 
+
 def main():
-    pass # remove this line
+    pass  # remove this line
     # your code goes here
+
 
 main()
