@@ -11,7 +11,14 @@ IMPORTANT - PROVIDE AN IPO (Inputs, Processes, and Output) AT THE TOP OF EACH PR
 
 Problem 3 - 25 Points
 ========================
-Write a program that asks the user to enter a series of single-digit numbers with nothing separating them. Use input() for this since we want to have a string of numbers. The program should display the sum of all the single digit numbers in the string. For example, if the user enters 2514, the method should return 12, which is the sum of 2, 5, 1 and 4. You can use input() to get the numbers as a string and then use Python coding to convert them to numbers as needed.
+Write a program that asks a user to enter a series of 
+single-digit numbers with nothing separating them. 
+Use input() for this since we want to have a string of numbers ("12345"). 
+The program should display the sum of all the single digit 
+numbers in the string. For example, if the user enters 2514, 
+the method should return 12, which is the sum of 2, 5, 1 and 4. 
+You can use input() to get the numbers as a string and then use 
+Python coding to convert them to numbers as needed.
 
 HINTS
 ========================
