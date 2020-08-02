@@ -2,22 +2,21 @@
 
 This repository contains all of files you need to complete Problem Set 8.
 
-This repository contains 5 files:
+This repository contains 4 files:
 
 - problem-set-8-problem-1.py - This is problem 1
 - problem-set-8-problem-2.py - This is problem 2
 - problem-set-8-problem-3.py - This is problem 3
-- problem-set-8-problem-4.py - This is problem 4
 - README.md - That's the file you are currently reading
 
 ## Assignment Details
 
 This assignment contains 4 problems.
 
-- Problem 1 is worth **25 points**
-- Problem 2 is worth **25 points**
-- Problem 3 is worth **25 points**
-- Problem 4 is worth **25 points**
+- Problem 1 is worth **33.3 points**
+- Problem 2 is worth **33.3 points**
+- Problem 3 is worth **33.4 points**
+
 
 If you have any questions, please ask them in the #questions channel on Slack. I'm happy to assist.
 
@@ -32,7 +31,6 @@ If you have any questions, please ask them in the #questions channel on Slack. I
 
 | Item          | Full Marks | Partial Marks | No Marks |
 | :------------ | :--------- | :------------ | :------- |
-| Problem No. 1 | 25         | 13            | 0        |
-| Problem No. 2 | 25         | 13            | 0        |
-| Problem No. 3 | 25         | 13            | 0        |
-| Problem No. 4 | 25         | 13            | 0        |
+| Problem No. 1 | 33.3       | 17            | 0        |
+| Problem No. 2 | 33.3       | 17            | 0        |
+| Problem No. 3 | 33.4       | 17            | 0        |
