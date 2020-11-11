@@ -11,7 +11,7 @@ This repository contains 4 files:
 
 ## Assignment Details
 
-This assignment contains 4 problems.
+This assignment contains 3 problems.
 
 - Problem 1 is worth **33.3 points**
 - Problem 2 is worth **33.3 points**

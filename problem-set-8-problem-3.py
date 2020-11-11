@@ -9,7 +9,7 @@ IMPORTANT - PROVIDE AN IPO (Inputs, Processes, and Output) AT THE TOP OF EACH PR
 - Include comments within your code explaining what the code is doing. You don't need to comment every line.
 - You must use coding techniques covered in Chapters 1, 2, 3, 5 and 7 in your solutions. Code from the internet will not be accepted.
 
-Problem 3 - 25 Points
+Problem 3 - 33.34 Points
 ========================
 Write a program that asks a user to enter a series of 
 single-digit numbers with nothing separating them. 

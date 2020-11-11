@@ -9,7 +9,7 @@ IMPORTANT - PROVIDE AN IPO (Inputs, Processes, and Output) AT THE TOP OF EACH PR
 - Include comments within your code explaining what the code is doing. You don't need to comment every line.
 - You must use coding techniques covered in Chapters 1, 2, 3, 5 and 7 in your solutions. Code from the internet will not be accepted.
 
-Problem 2 - 25 Points
+Problem 2 - 33.3 Points
 ========================
 
 Write a program that accepts a sentence as input and converts and converts each word to "Pig Latin." In one version, to convert a word to Pig Latin you remove the first letter and place that letter at the end of the word. Then you append the string "ay" to the word.
